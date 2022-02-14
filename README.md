@@ -10,8 +10,9 @@
 
 [![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=Cplusplus&labelColor=00599C&color=00599C&logoColor=ffffff&style=plastic)](https://github.com/junyas) [![C Sharp](https://img.shields.io/badge/-CSharp-000?style=flat&logo=C-Sharp&labelColor=239120&color=239120&logoColor=ffffff&style=plastic)](https://github.com/junyas)
 
+[![Windows](https://img.shields.io/badge/-Windows-000?style=flat&logo=Windows&labelColor=0078D6&color=0078D6&logoColor=ffffff&style=plastic)](https://github.com/junyas) [![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=Linux&labelColor=FCC624&color=FCC624&logoColor=ffffff&style=plastic)](https://github.com/junyas)
 
-
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat&logo=Twitter&labelColor=1DA1F2&color=1DA1F2&logoColor=ffffff&style=plastic)](https://twitter.com/junyash) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=LinkedIn&labelColor=0A66C2&color=0A66C2&logoColor=ffffff&style=plastic)](https://github.com/junyas)
 
 
 
