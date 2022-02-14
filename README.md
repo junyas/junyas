@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-[![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure)](https://github.com/junyas)
+[![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure&labelColor=5c5c5c&color=1182c3&logoColor=ffffff&style=plastic)](https://github.com/junyas)
 
 <!--
 **junyas/junyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
