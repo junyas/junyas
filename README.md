@@ -3,7 +3,8 @@
 
 
 
-[![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure&labelColor=0078D4&color=0078D4&logoColor=ffffff&style=plastic)](https://github.com/junyas)
+[![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure&labelColor=0078D4&color=0078D4&logoColor=ffffff&style=plastic)](https://github.com/junyas) 
+[![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-000?style=flat&logo=Azure-DevOps&labelColor=0078D7&color=0078D7&logoColor=ffffff&style=plastic)](https://github.com/junyas) [![Azure Pipelines](https://img.shields.io/badge/-AzurePipelines-000?style=flat&logo=Azure-Pipelines&labelColor=2560E0&color=2560E0&logoColor=ffffff&style=plastic)](https://github.com/junyas)
 
 [![Visual Studio](https://img.shields.io/badge/-VisualStudio-000?style=flat&logo=visual-studio&labelColor=5C2D91&color=5C2D91&logoColor=ffffff&style=plastic)](https://github.com/junyas) [![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000?style=flat&logo=visual-studio-code&labelColor=007ACC&color=007ACC&logoColor=ffffff&style=plastic)](https://github.com/junyas)
 
